@@ -1,3 +1,24 @@
 GIT AND GITHUB
 -----------------
-hello----
+to stage the content:-
+git add ./ or git add file name
+to commit:-
+git commit -m "message"
+to push:-
+git push
+to pull:- 
+git pull
+create sub branch based on main branch:-
+git clone -b sub branch name   mainbranch url
+pull origine to sub branch from main branch:-
+git pull origin -b origin branch name
+to stash the content before pulling the code frrom origin:-
+git stash 
+to unstash:-
+git git stash apply
+to check brnch:-
+git branch
+to check status:-
+git status
+
+
