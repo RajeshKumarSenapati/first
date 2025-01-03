@@ -40,4 +40,12 @@ git branch
 to check status:-
 git status
 
+to check git commits:-
+git log
 
+how to roll back previous commit:-
+git reset --hard commit id (commit id of correct commit)
+
+how to roll back previous commit with code:-
+git reset --soft commit id (commit id of correct commit)
+-here the commit id will get removed and chages of that respectinve commit will apperar
